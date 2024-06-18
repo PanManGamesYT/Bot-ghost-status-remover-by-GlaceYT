@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["KENTO","NANAMI"];
+const statusMessages = ["im the real Nanami 🙏🙏"];
 
 
 let currentIndex = 0;
